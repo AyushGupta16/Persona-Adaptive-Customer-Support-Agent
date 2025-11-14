@@ -1,0 +1,5 @@
+App Crash Troubleshooting Guide
+1. Ensure app is latest version.
+2. Clear app cache and data.
+3. Reproduce crash and note steps.
+4. Capture logs from device and attach.

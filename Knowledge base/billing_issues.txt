@@ -1,0 +1,4 @@
+Billing and Refunds
+- Check invoice history in account settings.
+- Verify payment method and retry charge.
+- For refunds, escalate to billing team with order id.

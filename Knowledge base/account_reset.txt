@@ -1,0 +1,3 @@
+Account Recovery
+- Use password reset link sent to registered email.
+- If you cannot access email, escalate to verify identity.
